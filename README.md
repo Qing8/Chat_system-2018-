@@ -1,3 +1,6 @@
 # Chat_system-2018-
 This chat system is finished in Spring 2018. 
-It also users to chat with multiple users within one computer.
+It allows user to chat with multiple users within one computer.
+Features:
+          1. send poems to "lonely" user
+          2.let users to play "tic-tac-toe" with another user
