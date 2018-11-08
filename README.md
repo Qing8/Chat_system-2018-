@@ -4,9 +4,11 @@
 *It allows user to chat with multiple users within one computer.*
 
 ## Features: 
-          1. Let the user to chat with each other.
-          2. send sonnets to "lonely" user.
-          3. let users to play "tic-tac-toe" with another online user.
+          Users could 
+          1. Chat with each other.
+          2. Check chatting history
+          3. Play "tic-tac-toe" with another online user.
+          3. Read beautiful poems sent by server.
       
           
           
