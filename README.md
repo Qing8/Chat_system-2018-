@@ -7,4 +7,5 @@ Features:
 Basic Chating System Features:
 ![menu1](https://user-images.githubusercontent.com/36719612/48178870-f3b1ab80-e356-11e8-8fad-668792bd97df.jpg)
 Game Feature:
-https://github.com/Qing8/Chat_system-2018-/issues/2#issue-378587475
+![game](https://user-images.githubusercontent.com/36719612/48179041-05e01980-e358-11e8-8ed5-003463251b63.jpg)
+
